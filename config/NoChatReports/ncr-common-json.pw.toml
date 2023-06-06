@@ -1,0 +1,8 @@
+name = "NCR-Common.json"
+filename = "NCR-Common.json"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/NoChatReports/NCR-Common.json"
+hash-format = "sha256"
+hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"

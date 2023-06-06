@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/ncr-client-json.pw.toml"
+hash = "a129db07687ed495ec2c7e62217287b8cde6ac6f6a46cbcbc17cef38aa5a1946"
+metafile = true
+
+[[files]]
+file = "config/NoChatReports/ncr-common-json.pw.toml"
+hash = "4f0b53fc3a44a0110c18783eb1c7d6fb269277ffa43286bd37fe9e0abbe2cd4d"
+metafile = true
+
+[[files]]
+file = "config/axesareweapons-json5.pw.toml"
+hash = "81d793b539edf3af2b82fca42aff85df5591a67234a7542d46ff664b2f62e04a"
+metafile = true
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -602,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/scout.pw.toml"
-hash = "23efd61ab6bece122d98c3bb1178f93e8c0122c8e8c895d08ba07473be36bf79"
+hash = "bffa49389c8e3a98d93e1f7d619861061dc838d853ac8ba4b976be64c0a5cce6"
 metafile = true
 
 [[files]]
@@ -729,6 +744,12 @@ metafile = true
 file = "mods/your-reputation.pw.toml"
 hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
+
+[[files]]
+file = "options-txt.pw.toml"
+hash = "b21cd0eb91d15fa1baa13524010ccbac14de9463d7b5d4ea6b8272bbbe00ab3c"
+metafile = true
+preserve = true
 
 [[files]]
 file = "shaderpacks/builders-qol-shaders.pw.toml"

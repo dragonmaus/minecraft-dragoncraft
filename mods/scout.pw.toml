@@ -1,5 +1,6 @@
 name = "Scout"
 filename = "scout-1.19.2-1.1.2.jar"
+side = "both"
 
 [download]
 url = "http://craft.dragonma.us/packwiz/files/scout-1.19.2-1.1.2.jar"

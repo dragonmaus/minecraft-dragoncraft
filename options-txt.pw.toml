@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/options.txt"
+hash-format = "sha256"
+hash = "5b39e4416561abefa5b18f118b38b64d9c52611b2802fd0d79f55d752d893c55"

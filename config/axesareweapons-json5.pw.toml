@@ -1,0 +1,8 @@
+name = "axesareweapons.json5"
+filename = "axesareweapons.json5"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/axesareweapons.json5"
+hash-format = "sha256"
+hash = "35f89bb9a217d8cfedcd58977c281af91657a09e82fd8791220a1d383ae9327f"

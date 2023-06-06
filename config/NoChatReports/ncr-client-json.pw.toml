@@ -1,0 +1,8 @@
+name = "NCR-Client.json"
+filename = "NCR-Client.json"
+side = "client"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/NoChatReports/NCR-Client.json"
+hash-format = "sha256"
+hash = "3284791796f21826525b1a0f39115429bb00181436d48185613fbe3cf454d152"
