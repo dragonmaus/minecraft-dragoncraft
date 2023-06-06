@@ -1,0 +1,13 @@
+name = "FeaturedServers"
+filename = "featuredservers-1.19.2-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l94x8a1f/versions/W03wYzvu/featuredservers-1.19.2-1.6.jar"
+hash-format = "sha1"
+hash = "a1d9f8f6abb788c48cb8cf5351250b24b355871d"
+
+[update]
+[update.modrinth]
+mod-id = "l94x8a1f"
+version = "W03wYzvu"

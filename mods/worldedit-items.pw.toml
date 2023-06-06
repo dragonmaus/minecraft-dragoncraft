@@ -1,0 +1,13 @@
+name = "WorldEdit Items"
+filename = "WorldEditItems-v1.2.1-FabricQuilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBMX8ICO/versions/jIlxOa1E/WorldEditItems-v1.2.1-FabricQuilt.jar"
+hash-format = "sha1"
+hash = "29c546ab6d5fcfe9c6e480c4b74c8ba17370ad2e"
+
+[update]
+[update.modrinth]
+mod-id = "xBMX8ICO"
+version = "jIlxOa1E"

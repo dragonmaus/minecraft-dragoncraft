@@ -1,0 +1,13 @@
+name = "infineffect"
+filename = "infineffect-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PwjiOWTr/versions/61gviW5U/infineffect-1.0.jar"
+hash-format = "sha1"
+hash = "3cb3a4811e9ce9fbe3a2dbf56e104b2fef3dc7e9"
+
+[update]
+[update.modrinth]
+mod-id = "PwjiOWTr"
+version = "61gviW5U"

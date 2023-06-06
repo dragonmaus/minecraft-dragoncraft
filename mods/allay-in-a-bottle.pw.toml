@@ -1,0 +1,13 @@
+name = "Allay in a Bottle"
+filename = "allay-in-a-bottle-v2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7IGV0Frg/versions/eBdWohdk/allay-in-a-bottle-v2.1.0.jar"
+hash-format = "sha1"
+hash = "1a961e2f69dec7699740a91dea95943f2e1d18ec"
+
+[update]
+[update.modrinth]
+mod-id = "7IGV0Frg"
+version = "eBdWohdk"

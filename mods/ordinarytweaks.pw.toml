@@ -1,0 +1,13 @@
+name = "SomeOrdinaryTweaks"
+filename = "some-ordinary-tweaks-1.6.5-backport-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/p4W5KzFD/some-ordinary-tweaks-1.6.5-backport-1.19.2.jar"
+hash-format = "sha1"
+hash = "63642451b8fd44532f4de50133eb79bbf67c38d7"
+
+[update]
+[update.modrinth]
+mod-id = "LNeXYJOg"
+version = "p4W5KzFD"

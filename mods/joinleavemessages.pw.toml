@@ -1,0 +1,13 @@
+name = "Join Leave Messages"
+filename = "joinleavemessages-FABRIC-1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0GiFWNa/versions/CD3sFp4c/joinleavemessages-FABRIC-1.4.jar"
+hash-format = "sha1"
+hash = "bbe94fe0396dadfba40ee8a825e65ddaee571b77"
+
+[update]
+[update.modrinth]
+mod-id = "e0GiFWNa"
+version = "CD3sFp4c"

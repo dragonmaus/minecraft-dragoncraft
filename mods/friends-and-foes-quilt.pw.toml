@@ -1,0 +1,13 @@
+name = "Friends&Foes (Quilt)"
+filename = "friendsandfoes-quilt-mc1.19.2-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NxP9xmhw/versions/GY2kmsc9/friendsandfoes-quilt-mc1.19.2-1.8.2.jar"
+hash-format = "sha1"
+hash = "eef619981ab7b81683846f89ab6bf416dcde207b"
+
+[update]
+[update.modrinth]
+mod-id = "NxP9xmhw"
+version = "GY2kmsc9"

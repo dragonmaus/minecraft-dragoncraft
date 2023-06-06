@@ -1,0 +1,13 @@
+name = "Passive Endermen"
+filename = "passiveendermen-1.19.2-4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N7UFQA9x/versions/oDX51PSC/passiveendermen-1.19.2-4.2.jar"
+hash-format = "sha1"
+hash = "4f2d3f40747996459a66070eb19058f68e93c0f9"
+
+[update]
+[update.modrinth]
+mod-id = "N7UFQA9x"
+version = "oDX51PSC"
