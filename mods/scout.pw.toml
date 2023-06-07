@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "http://craft.dragonma.us/packwiz/files/scout-1.19.2-1.1.2.jar"
-hash-format = "sha1"
-hash = "5f0a1b5418f0f16b9d66eb8ae832291371d321b5"
+hash-format = "sha256"
+hash = "669acfe827117bf507dd7be8ea82e9001671f6b4d2bb4dc72fbbe918f763bb15"

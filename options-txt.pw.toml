@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "http://craft.dragonma.us/packwiz/files/options.txt"
 hash-format = "sha256"
-hash = "5b39e4416561abefa5b18f118b38b64d9c52611b2802fd0d79f55d752d893c55"
+hash = "5a5da69237ef14fcc6db2f74f2c4eb866d53012319814ccd543652ce60995de4"

@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/scout.pw.toml"
-hash = "bffa49389c8e3a98d93e1f7d619861061dc838d853ac8ba4b976be64c0a5cce6"
+hash = "4a75bb4ab3a503f84f4315c6c4fd1cb88f3ef2fcb331c7fa40d2ff3626fbcbbb"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "options-txt.pw.toml"
-hash = "b21cd0eb91d15fa1baa13524010ccbac14de9463d7b5d4ea6b8272bbbe00ab3c"
+hash = "3a7b0dd6d0e289c8460f5752f51957deab090cd30ad417c3faca6b7c887f3fcb"
 metafile = true
 preserve = true
 
