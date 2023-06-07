@@ -38,7 +38,7 @@ preserve = true
 
 [[files]]
 file = "config/keymap-keys-json.pw.toml"
-hash = "71ff776cb48ef5071d86edb6157cd18e108566038b2c748f4ea205e19ad94356"
+hash = "5edef1adcf66278cbe276de4529b9146d84a07444669c1b2cb7d0f053676126c"
 metafile = true
 preserve = true
 
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "config/worldedit/worldedit-properties.pw.toml"
-hash = "84bc7bc6c0d13abf9d2562392658c2c27f9bf6b85d5a4bb802d487f90b5c503f"
+hash = "1f320842460f8cb4f0fea131a6fb964f50c49ed17f43f592ef8389f90b34a75e"
 metafile = true
 preserve = true
 

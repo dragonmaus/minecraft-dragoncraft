@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "http://craft.dragonma.us/packwiz/files/config/worldedit/worldedit.properties"
 hash-format = "sha256"
-hash = "fb932877470282131b64619c03ec1e518f900ec68937659dafabe69bba7eee77"
+hash = "280e2fce704468a084bae47774e087b8d5df84b034be8369e1e05b2c3d59f6f6"

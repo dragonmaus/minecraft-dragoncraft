@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "http://craft.dragonma.us/packwiz/files/config/keymap-keys.json"
 hash-format = "sha256"
-hash = "7194c4bc3f5205bf7750e46bb002e05779f02397c5117b74b093ae98d64fd538"
+hash = "f4d4b64a2d8d7a5e237796b50fdbf00d7ce24701b0ce54c2a6976eba59b94a89"
