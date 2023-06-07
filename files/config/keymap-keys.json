@@ -1,0 +1,16 @@
+{
+  "chunkloaders.keys.open_screen": {
+    "alt": false,
+    "ctrl": true,
+    "keyCode": 67,
+    "keyType": "KEYBOARD",
+    "shift": false
+  },
+  "key.worldeditcui.toggle": {
+    "alt": false,
+    "ctrl": true,
+    "keyCode": 44,
+    "keyType": "KEYBOARD",
+    "shift": false
+  }
+}

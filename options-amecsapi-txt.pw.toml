@@ -1,8 +1,0 @@
-name = "options.amecsapi.txt"
-filename = "options.amecsapi.txt"
-side = "client"
-
-[download]
-url = "http://craft.dragonma.us/packwiz/files/options.amecsapi.txt"
-hash-format = "sha256"
-hash = "7955f75fa18b9f2e60bc436e67ebeaa3b5221f8e9b10e6a44b329a8c268a6a72"

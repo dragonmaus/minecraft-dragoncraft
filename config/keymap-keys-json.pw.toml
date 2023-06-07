@@ -1,0 +1,7 @@
+name = "keymap-keys.json"
+filename = "keymap-keys.json"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/keymap-keys.json"
+hash-format = "sha256"
+hash = "7194c4bc3f5205bf7750e46bb002e05779f02397c5117b74b093ae98d64fd538"
