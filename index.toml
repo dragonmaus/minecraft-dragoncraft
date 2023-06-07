@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
+hash = "c61ac4b484dfa8472120da9cfbf2b288434286510eef683852fa5c3ce1c032d4"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
+hash = "df9ca214caab9b0a50ef401b01c13f02c62dbc85431ab782cf371fdce847358b"
 metafile = true
 
 [[files]]
