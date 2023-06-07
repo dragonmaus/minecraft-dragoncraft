@@ -1,5 +1,6 @@
 name = "keymap-keys.json"
 filename = "keymap-keys.json"
+side = "client"
 
 [download]
 url = "http://craft.dragonma.us/packwiz/files/config/keymap-keys.json"

@@ -38,7 +38,7 @@ preserve = true
 
 [[files]]
 file = "config/keymap-keys-json.pw.toml"
-hash = "a375aaceed5f5e74fe3f21b03babc127115534fd18c68e75e05ab66423ea008a"
+hash = "71ff776cb48ef5071d86edb6157cd18e108566038b2c748f4ea205e19ad94356"
 metafile = true
 preserve = true
 
