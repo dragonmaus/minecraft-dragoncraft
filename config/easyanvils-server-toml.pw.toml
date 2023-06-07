@@ -1,0 +1,8 @@
+name = "easyanvils-server.toml"
+filename = "easyanvils-server.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/easyanvils-server.toml"
+hash-format = "sha256"
+hash = "1d1af68f095aefb5b8470d918ceb2ffdb97197641a8533ee2cf76d591dd9bab6"

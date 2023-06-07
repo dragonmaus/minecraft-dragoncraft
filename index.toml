@@ -16,6 +16,11 @@ hash = "81d793b539edf3af2b82fca42aff85df5591a67234a7542d46ff664b2f62e04a"
 metafile = true
 
 [[files]]
+file = "config/easyanvils-server-toml.pw.toml"
+hash = "fbeac0567a28bf9c6484cd8eb8dc119b4d9de68ee2f1050b81039cb82be1aa29"
+metafile = true
+
+[[files]]
 file = "config/featuredservers-json.pw.toml"
 hash = "777ba8cb47dc2af629daf90b4ed64de7f459c2cff50b206d3e3807239a47b110"
 metafile = true
@@ -50,6 +55,11 @@ metafile = true
 [[files]]
 file = "config/nicerportals-toml.pw.toml"
 hash = "30bda87fc6a6791650333ea5427e02ce322f604f50f47518cc73b0915cb8dbb3"
+metafile = true
+
+[[files]]
+file = "config/quickconnectbutton-json5.pw.toml"
+hash = "859c0e0008c721b3ee59726e2eec22cd3e0fdfe0a20b5f05d17a8263264761f2"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
 metafile = true
 
 [[files]]
@@ -710,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/scout.pw.toml"
-hash = "4a75bb4ab3a503f84f4315c6c4fd1cb88f3ef2fcb331c7fa40d2ff3626fbcbbb"
+hash = "938be6565fec03eb0e701a211f0945204b1a0265b0b9224f3feb62a9e623fad2"
 metafile = true
 
 [[files]]

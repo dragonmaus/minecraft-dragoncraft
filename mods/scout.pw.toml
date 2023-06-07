@@ -3,6 +3,6 @@ filename = "scout-1.19.2-1.1.2.jar"
 side = "both"
 
 [download]
-url = "http://craft.dragonma.us/packwiz/files/scout-1.19.2-1.1.2.jar"
+url = "http://craft.dragonma.us/packwiz/files/mods/scout-1.19.2-1.1.2.jar"
 hash-format = "sha256"
 hash = "669acfe827117bf507dd7be8ea82e9001671f6b4d2bb4dc72fbbe918f763bb15"
