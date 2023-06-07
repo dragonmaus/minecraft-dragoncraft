@@ -3,9 +3,9 @@ filename = "malilib-fabric-1.19.2-0.13.0.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/3923/52/malilib-fabric-1.19.2-0.13.0.jar"
 hash-format = "sha1"
 hash = "adc66c8c481293d6fe316da539eb5b8e46e8ac76"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

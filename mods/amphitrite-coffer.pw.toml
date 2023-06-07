@@ -3,9 +3,9 @@ filename = "amphitrite-coffer-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/3975/406/amphitrite-coffer-1.2.2.jar"
 hash-format = "sha1"
 hash = "78d41e9bdf62693bab5100d71c58f77177762c0e"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -1,0 +1,8 @@
+name = "worldedit.properties"
+filename = "worldedit.properties"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/worldedit/worldedit.properties"
+hash-format = "sha256"
+hash = "fb932877470282131b64619c03ec1e518f900ec68937659dafabe69bba7eee77"

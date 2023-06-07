@@ -3,9 +3,9 @@ filename = "mcw-roofs-2.2.3-mc1.19.2fabric.jar"
 side = "both"
 
 [download]
-url =  "https://mediafilez.forgecdn.net/files/4429/456/mcw-roofs-2.2.3-mc1.19.2fabric.jar"
 hash-format = "sha1"
 hash = "ce0097d23f365173f85942eac8ecf20bdb7677fa"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

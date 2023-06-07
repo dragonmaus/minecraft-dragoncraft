@@ -3,9 +3,9 @@ filename = "axolotl-item-fix-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/4126/846/axolotl-item-fix-1.1.4.jar"
 hash-format = "sha1"
 hash = "7c1971002b420f92fb325c0aa72c83186f1f3c21"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

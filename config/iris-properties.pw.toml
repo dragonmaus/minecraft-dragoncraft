@@ -1,0 +1,8 @@
+name = "iris.properties"
+filename = "iris.properties"
+side = "client"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/iris.properties"
+hash-format = "sha256"
+hash = "b4f9b9e3cca3f424e60518dc4150faea32d610dcbfdc113f64148b1bf79765a5"

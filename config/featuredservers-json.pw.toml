@@ -1,0 +1,8 @@
+name = "featuredservers.json"
+filename = "featuredservers.json"
+side = "client"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/featuredservers.json"
+hash-format = "sha256"
+hash = "49345bb394c8973f6e379e9465ea5bd9a5b14d99323e0a6b2858d2004e3f4f76"

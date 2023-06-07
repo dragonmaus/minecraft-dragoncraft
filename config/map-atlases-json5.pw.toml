@@ -1,0 +1,8 @@
+name = "map_atlases.json5"
+filename = "map_atlases.json5"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/map_atlases.json5"
+hash-format = "sha256"
+hash = "259fe5780f0983e22bc4022c230285ae051a9cd403f3984c3b1d6de415cdbcfc"

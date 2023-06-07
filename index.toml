@@ -16,6 +16,42 @@ hash = "81d793b539edf3af2b82fca42aff85df5591a67234a7542d46ff664b2f62e04a"
 metafile = true
 
 [[files]]
+file = "config/featuredservers-json.pw.toml"
+hash = "777ba8cb47dc2af629daf90b4ed64de7f459c2cff50b206d3e3807239a47b110"
+metafile = true
+
+[[files]]
+file = "config/horsebuff-toml.pw.toml"
+hash = "84ec088f690d2a80c76761c85013679cf958ae23db8d7d37186f45dc3111cdf4"
+metafile = true
+
+[[files]]
+file = "config/improved-signs-json5.pw.toml"
+hash = "6b0b70e7c8d345cf2e6bee3749c78809cf0488eec9b30c27f61ae6444afd9b97"
+metafile = true
+
+[[files]]
+file = "config/iris-properties.pw.toml"
+hash = "8d68a972c59d5e40cfb7b9f36a43aff1d7f6367793be95b099625b94256100b9"
+metafile = true
+
+[[files]]
+file = "config/map-atlases-json5.pw.toml"
+hash = "3bfd629531162c93fa640e4cc0dee40a688657b3fe24bcd5676d7dab63a607db"
+metafile = true
+
+[[files]]
+file = "config/nicerportals-toml.pw.toml"
+hash = "30bda87fc6a6791650333ea5427e02ce322f604f50f47518cc73b0915cb8dbb3"
+metafile = true
+
+[[files]]
+file = "config/worldedit/worldedit-properties.pw.toml"
+hash = "84bc7bc6c0d13abf9d2562392658c2c27f9bf6b85d5a4bb802d487f90b5c503f"
+metafile = true
+preserve = true
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -27,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/amphitrite-coffer.pw.toml"
-hash = "0550c2eef9a437e147b691176b10451d13f6ffcd05dff7b209a5f6856e53aa2a"
+hash = "612ae323303c0ce046be17bb254ad75ea9d81e8e32aae6b95d092e7abb8415c2"
 metafile = true
 
 [[files]]
@@ -47,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "47004c0b3744918a5c49fa3d4a3a527e0740cfe43a8bfd3ba078943e9329f65d"
+hash = "a7558893b89df6b3e67eac25ec1a1c3cad2e6bb43ecb1fbdde34275fdd232ad6"
 metafile = true
 
 [[files]]
@@ -146,6 +182,11 @@ hash = "b15fcbe32caf2cbb9ea4497e15f26f17efc6d63dcc00262b5d338dea3e70e6ce"
 metafile = true
 
 [[files]]
+file = "mods/configured-fabric.pw.toml"
+hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
@@ -172,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "d89af3c0fc846289115b35fa7e0fbee8236a5adb1f360cac85288cd1ce97e407"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
 metafile = true
 
 [[files]]
@@ -211,6 +252,11 @@ hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "8410f11e8c7658b9a26f858d0b8c9e6791ffa14cc6d344dd282eaf14364ea297"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
 metafile = true
@@ -241,6 +287,11 @@ hash = "29f6f57a4f8fe861db939f260b16c72bf22ef8e904f53bb309779475feeccabf"
 metafile = true
 
 [[files]]
+file = "mods/end-goblin-traders-fabric.pw.toml"
+hash = "315a8d27e81112e1aedbd24c07465e2028312014880be1d642971263af309532"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "ffa8437e10ac3fdd36147dd6b3beaf26224158ee80a88a1a13a7e0725405d8bd"
 metafile = true
@@ -263,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
 metafile = true
 
 [[files]]
@@ -328,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
+metafile = true
+
+[[files]]
+file = "mods/goblintraders-fabric.pw.toml"
+hash = "9a1c952b2942ee83aabf505e56624eaff1aab3af713e390c73b6d8d7c71ab218"
 metafile = true
 
 [[files]]
@@ -457,17 +518,17 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "8e6f453a67fc773770bcdb1beb7bbe7fa69a9dee10efeb0a39643221260dbfb8"
+hash = "b46bb1cca929a49da6fcf7e6ac246b8e8c4f0518ad201a9b8d376a44b6bc3bb8"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "a75e1a966a230bbcc3cff4bf5172aea103350db62241599f3a3dc6049d194369"
+hash = "e5fd62acfa586a4066ba2ba88b3de175ebfca4f9aea9beb7beb63a0076c88301"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "5307faf9a0a4caba76ed1ac26462a5a7c473f2a51b75e2db5892f587ddbd8926"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
@@ -492,7 +553,12 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "54c3fb5c1f9edd6ba90a8dbf9c76ebf13dc1fcd48c53fd746a15191691309a63"
+hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "eaf2421881c933c1101bb53d4be72aa4ac70fb5b318ac3a9dff79a0859fd18c7"
 metafile = true
 
 [[files]]
@@ -681,8 +747,18 @@ hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
 metafile = true
 
 [[files]]
+file = "mods/thonkutil.pw.toml"
+hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
+metafile = true
+
+[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "fce968b9f5e89dd122fe8409db961bf4f5f27cc14b16bd6d2423970c0e41c40d"
+metafile = true
+
+[[files]]
+file = "mods/tiny-skeletons.pw.toml"
+hash = "74e0c671dc77205f24cd897462d30b8041749a7c08f6f3e2f69bc544c3bdd737"
 metafile = true
 
 [[files]]
@@ -703,6 +779,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "4f162dda8722d193fcb17314ea78d9ccc75b4fc818a01f192a7cf94d6973d9d5"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]
@@ -744,6 +830,12 @@ metafile = true
 file = "mods/your-reputation.pw.toml"
 hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
+
+[[files]]
+file = "options-amecsapi-txt.pw.toml"
+hash = "810ffb86a0113d209ce2751a25c59104c7fa9d9d9174bfc230a6ce0cbee7d251"
+metafile = true
+preserve = true
 
 [[files]]
 file = "options-txt.pw.toml"

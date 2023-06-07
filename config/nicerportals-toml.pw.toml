@@ -1,0 +1,8 @@
+name = "nicerportals.toml"
+filename = "nicerportals.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/nicerportals.toml"
+hash-format = "sha256"
+hash = "ef51a56da04803a474102fa2a762b6c78eeb38d17ba5e99b3a33dd976e3daa5a"

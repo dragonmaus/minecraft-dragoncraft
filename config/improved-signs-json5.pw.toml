@@ -1,0 +1,8 @@
+name = "improved-signs.json5"
+filename = "improved-signs.json5"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/improved-signs.json5"
+hash-format = "sha256"
+hash = "ad2275a13caade7fe552f3fdb4ac4c95289269ab3676f95ad291732cd60a2a91"

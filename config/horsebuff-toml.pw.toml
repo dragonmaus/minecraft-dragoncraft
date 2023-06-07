@@ -1,0 +1,8 @@
+name = "HorseBuff.toml"
+filename = "HorseBuff.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/HorseBuff.toml"
+hash-format = "sha256"
+hash = "38f4c6a1d14c77415c977bbe51cc42be4f669baf981eb094d3f0d7cc1d6d6845"
