@@ -1,6 +1,6 @@
 {
 	// The address to connect to when the button is pressed.
-	"address": "play.craft.dragonma..us",
+	"address": "play.craft.dragonma.us",
 	// The name of the button.
 	"connectButton": "Play DragonCraft",
 	// The side to align the button to. ('LEFT'/'RIGHT')

@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "config/quickconnectbutton-json5.pw.toml"
-hash = "859c0e0008c721b3ee59726e2eec22cd3e0fdfe0a20b5f05d17a8263264761f2"
+hash = "7ef3bdc42a67bf529990fb6acb88aacdf6d4d3600f0a3c85398d2f128a8b35fe"
 metafile = true
 
 [[files]]

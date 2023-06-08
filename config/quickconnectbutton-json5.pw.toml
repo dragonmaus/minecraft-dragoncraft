@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "http://craft.dragonma.us/packwiz/files/config/quickconnectbutton.json5"
 hash-format = "sha256"
-hash = "5966f4c24c713efe45147336df152d81104e17dc8037f40f6801df69dc713989"
+hash = "e00ec2a54959329c9c2bca37519ab699036b7447996927206be335c76569ee20"
