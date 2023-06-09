@@ -1,0 +1,8 @@
+name = "veinmining-server.toml"
+filename = "veinmining-server.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/veinmining-server.toml"
+hash-format = "sha256"
+hash = "6ae488b9129062fa684b0a30928adfa194409759304ed61b7ce954b9669ecd9a"

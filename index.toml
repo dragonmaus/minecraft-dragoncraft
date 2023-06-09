@@ -63,6 +63,16 @@ hash = "7ef3bdc42a67bf529990fb6acb88aacdf6d4d3600f0a3c85398d2f128a8b35fe"
 metafile = true
 
 [[files]]
+file = "config/veinmining-common-toml.pw.toml"
+hash = "38583e3baa9bbf416954e88fa003d20ddc8cd227b9ba0c99fb80cb9c2e9a626c"
+metafile = true
+
+[[files]]
+file = "config/veinmining-server-toml.pw.toml"
+hash = "013cc7446526666c376bff8db7ddde77480b37de4a66367ff46023df4a0c2a75"
+metafile = true
+
+[[files]]
 file = "config/worldedit/worldedit-properties.pw.toml"
 hash = "1f320842460f8cb4f0fea131a6fb964f50c49ed17f43f592ef8389f90b34a75e"
 metafile = true
@@ -826,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "150766a6f684f0ca0d3ac68cfef99c335b06ff65d657b117bd6ed6b72821271d"
 metafile = true
 
 [[files]]
