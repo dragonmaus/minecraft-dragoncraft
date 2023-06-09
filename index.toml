@@ -679,6 +679,11 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/perch.pw.toml"
+hash = "ef1def941e20fc67e8ddbaef0bf3bb5246e19f5028ea68aa176d217ed8d8f3b3"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true

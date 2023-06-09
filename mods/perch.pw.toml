@@ -1,0 +1,13 @@
+name = "Perch"
+filename = "perch-1.0.0-1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/m62Tm6En/versions/f70rVZBK/perch-1.0.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "dd7512f3bdfe8e03642043b27db796366f3b54ac"
+
+[update]
+[update.modrinth]
+mod-id = "m62Tm6En"
+version = "f70rVZBK"
