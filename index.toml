@@ -63,6 +63,11 @@ hash = "7ef3bdc42a67bf529990fb6acb88aacdf6d4d3600f0a3c85398d2f128a8b35fe"
 metafile = true
 
 [[files]]
+file = "config/stack-to-nearby-chests/mod-options-json.pw.toml"
+hash = "55f20165ef5d06bd8c8a80539b3b1b79ae46986005a7cb1b0bed0331acb40971"
+metafile = true
+
+[[files]]
 file = "config/veinmining-common-toml.pw.toml"
 hash = "38583e3baa9bbf416954e88fa003d20ddc8cd227b9ba0c99fb80cb9c2e9a626c"
 metafile = true

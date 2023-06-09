@@ -1,0 +1,8 @@
+name = "mod-options.json"
+filename = "mod-options.json"
+side = "client"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/stack-to-nearby-chests/mod-options.json"
+hash-format = "sha256"
+hash = "714f09a6c4c9c64019949cdee22e0755af22070708ab2e3ca7519b3be5442d9e"
