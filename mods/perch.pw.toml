@@ -1,6 +1,6 @@
 name = "Perch"
 filename = "perch-1.0.0-1.19.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/m62Tm6En/versions/f70rVZBK/perch-1.0.0-1.19.2.jar"

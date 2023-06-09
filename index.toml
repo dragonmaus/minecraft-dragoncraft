@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/perch.pw.toml"
-hash = "ef1def941e20fc67e8ddbaef0bf3bb5246e19f5028ea68aa176d217ed8d8f3b3"
+hash = "4f913e43ec241355414cc91df1958cf66eb2474a31ece8c63d3587b43d2eb7e1"
 metafile = true
 
 [[files]]
