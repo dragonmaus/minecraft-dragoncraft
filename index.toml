@@ -169,6 +169,11 @@ hash = "8d8ba7a8da5a4b73616e8df7ee340fea73110df17866dbfe802665bb44bba58a"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
 metafile = true
