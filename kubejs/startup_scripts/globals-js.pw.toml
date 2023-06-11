@@ -1,0 +1,7 @@
+name = "globals.js"
+filename = "globals.js"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/kubejs/startup_scripts/globals.js"
+hash-format = "sha256"
+hash = "239ef649c0355898529c50bca2aeb41c18fdb1bd19cae0e05c0850ce6cfcb162"

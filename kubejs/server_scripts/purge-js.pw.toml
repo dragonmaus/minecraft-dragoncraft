@@ -1,0 +1,7 @@
+name = "purge.js"
+filename = "purge.js"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/kubejs/server_scripts/purge.js"
+hash-format = "sha256"
+hash = "b0ae12d543918d62f02206fa61de6930c958daad58b84f11609a04696a97cb01"
