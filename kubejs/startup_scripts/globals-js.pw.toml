@@ -1,5 +1,6 @@
 name = "globals.js"
 filename = "globals.js"
+side = "both"
 
 [download]
 url = "http://craft.dragonma.us/packwiz/files/kubejs/startup_scripts/globals.js"

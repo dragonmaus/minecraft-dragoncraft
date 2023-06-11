@@ -1,5 +1,6 @@
 name = "purge.js"
 filename = "purge.js"
+side = "both"
 
 [download]
 url = "http://craft.dragonma.us/packwiz/files/kubejs/server_scripts/purge.js"

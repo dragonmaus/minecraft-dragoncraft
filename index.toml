@@ -85,12 +85,12 @@ preserve = true
 
 [[files]]
 file = "kubejs/server_scripts/purge-js.pw.toml"
-hash = "eb67dc33c5f70b8cf7f36b372588f08113a2398b9f7fcc98ae4af0b8df006d25"
+hash = "38f25da101831b3b7e9a4ec509d2339c7173f995843ef11d672f543502d0cd08"
 metafile = true
 
 [[files]]
 file = "kubejs/startup_scripts/globals-js.pw.toml"
-hash = "ccccebc920ba2c4944543a5635b461f3a4f296df178e07485cd108485f502563"
+hash = "2fc71a11071470213f55fd4f07acb46a6b879d07b0897cf1aa39f31dff278466"
 metafile = true
 
 [[files]]
