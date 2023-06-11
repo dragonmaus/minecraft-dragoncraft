@@ -1,0 +1,8 @@
+name = "pack.mcmeta"
+filename = "pack.mcmeta"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/datapacks/dragoncraft-tweaks/pack.mcmeta"
+hash-format = "sha256"
+hash = "cac89a710ce85e923696fb07368f23e9377e060d9a5d3eab66f1917c87230215"

@@ -1,0 +1,8 @@
+name = "global_data_and_resourcepacks.toml"
+filename = "global_data_and_resourcepacks.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/global_data_and_resourcepacks.toml"
+hash-format = "sha256"
+hash = "a7e1bc171f9bb66207df441b9a6e77111672d48502038fdcb04670392364ac07"

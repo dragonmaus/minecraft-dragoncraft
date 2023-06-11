@@ -26,6 +26,11 @@ hash = "777ba8cb47dc2af629daf90b4ed64de7f459c2cff50b206d3e3807239a47b110"
 metafile = true
 
 [[files]]
+file = "config/global-data-and-resourcepacks-toml.pw.toml"
+hash = "dc2192a549ef8435ee9dd75e4c2de4dcc0e6318de776104d987b09094a13f01a"
+metafile = true
+
+[[files]]
 file = "config/horsebuff-toml.pw.toml"
 hash = "84ec088f690d2a80c76761c85013679cf958ae23db8d7d37186f45dc3111cdf4"
 metafile = true
@@ -82,6 +87,21 @@ file = "config/worldedit/worldedit-properties.pw.toml"
 hash = "1f320842460f8cb4f0fea131a6fb964f50c49ed17f43f592ef8389f90b34a75e"
 metafile = true
 preserve = true
+
+[[files]]
+file = "datapacks/dragoncraft-tweaks/data/compressed/recipes/charcoal-block-i-unpack-json.pw.toml"
+hash = "b50893b6703b69cde9811c32494bc6c75d3ceca303bfa1cccd0c5b2e5b09cf48"
+metafile = true
+
+[[files]]
+file = "datapacks/dragoncraft-tweaks/data/compressed/recipes/charcoal-block-pack-json.pw.toml"
+hash = "8c60e04641cc99df56894dadde12f80532c9011578581264cc41ba06eec357c9"
+metafile = true
+
+[[files]]
+file = "datapacks/dragoncraft-tweaks/pack-mcmeta.pw.toml"
+hash = "99fe2ca458d1a5534cd4e999b678971fd415762bc682163596402a1fe9323887"
+metafile = true
 
 [[files]]
 file = "kubejs/server_scripts/purge-js.pw.toml"

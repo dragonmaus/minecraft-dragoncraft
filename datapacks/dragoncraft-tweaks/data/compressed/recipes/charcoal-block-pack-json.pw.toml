@@ -1,0 +1,8 @@
+name = "charcoal_block_pack.json"
+filename = "charcoal_block_pack.json"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/datapacks/dragoncraft-tweaks/data/compressed/recipes/charcoal_block_pack.json"
+hash-format = "sha256"
+hash = "098f3c06c500915cbb68ff6e37e163f5e965be1a68317bf2f32ec44ad1ff4582"
