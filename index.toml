@@ -189,6 +189,11 @@ hash = "8d8ba7a8da5a4b73616e8df7ee340fea73110df17866dbfe802665bb44bba58a"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/does-potato-tick.pw.toml"
+hash = "4a1c031c12ce19dc132d283b057f45ffdbbbec647877e220ae511922897e2597"
 metafile = true
 
 [[files]]
@@ -684,6 +694,11 @@ hash = "2e8d66c6ba954e73c128c7fb4d5e9d0eddf35ff97b85097ac7673d6dd1cccf4c"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "519d6afc9d094069cbb8ba3edf6b5a99c5be20860bc38a8fb71144252231de07"
+metafile = true
+
+[[files]]
 file = "mods/nicer-portals.pw.toml"
 hash = "1e8ca90756f95a2e7609cf51b6dd218ea2d4ac0bb41e29de80e920cd5cb562ec"
 metafile = true
@@ -786,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/scout.pw.toml"
 hash = "938be6565fec03eb0e701a211f0945204b1a0265b0b9224f3feb62a9e623fad2"
+metafile = true
+
+[[files]]
+file = "mods/servertick.pw.toml"
+hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
 metafile = true
 
 [[files]]
