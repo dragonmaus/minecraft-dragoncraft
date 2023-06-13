@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
+hash = "b99719169c6d0bf3a1376bc9fe3ac834d8b1c45aa605a9c6c3b1842a41f2f386"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "8639cdec71766e6e9eb4cdce2717871337e12e60da51e61e409e2ad9f6208959"
+hash = "4fd644da1e87241f8d66c5a6ce5af912021c13e5b002a34d9f4253bcf93749b6"
 metafile = true
 
 [[files]]

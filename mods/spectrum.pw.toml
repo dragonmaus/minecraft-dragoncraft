@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.7.0-deeper-down-alpha14.jar"
+filename = "spectrum-1.6.11-1.19.2-leisure_time.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/ehboAjd6/spectrum-1.7.0-deeper-down-alpha14.jar"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/A8YLB9vX/spectrum-1.6.11-1.19.2-leisure_time.jar"
 hash-format = "sha1"
-hash = "d87f0bc7329f3fd74f5823cdfef2d98e0234cde9"
+hash = "6fe14bfae66cd8ee39ec8a4e5e4541c5d7d9c79c"
 
 [update]
 [update.modrinth]
 mod-id = "3rc31Hgo"
-version = "ehboAjd6"
+version = "A8YLB9vX"
