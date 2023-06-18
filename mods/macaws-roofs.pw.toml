@@ -1,13 +1,13 @@
 name = "Macaw's Roofs"
-filename = "mcw-roofs-2.2.3-mc1.19.2fabric.jar"
+filename = "mcw-roofs-2.2.4-mc1.19.2fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ce0097d23f365173f85942eac8ecf20bdb7677fa"
+hash = "1341c1bcd999cdb8c0fb8ee3d69b1c9965242435"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4429456
+file-id = 4590009
 project-id = 352039

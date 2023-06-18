@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
+hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/does-potato-tick.pw.toml"
-hash = "4a1c031c12ce19dc132d283b057f45ffdbbbec647877e220ae511922897e2597"
+hash = "0bbe72d983951112a0a3cbc53bf513f2e0e533cbff55c6598f6305c3b6382c4f"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "bd2da695b087ca82cc4b6d5063c0b8466aa8ee322a78fdc41539999e22618909"
+hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ffa8437e10ac3fdd36147dd6b3beaf26224158ee80a88a1a13a7e0725405d8bd"
+hash = "1d99e516e06ee6620a48a2b4bc45de8918deb27affc404786005a9a0a5ed6406"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "e5fd62acfa586a4066ba2ba88b3de175ebfca4f9aea9beb7beb63a0076c88301"
+hash = "503727004960860c7b076f1895afd9fb7735cd7fb8eedf2a4554c351808a289e"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
+hash = "77e991ca08d44cbb3b1e971a425453ddcf6fc9c15cad0b7bdb20f6b2cd5946aa"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b99719169c6d0bf3a1376bc9fe3ac834d8b1c45aa605a9c6c3b1842a41f2f386"
+hash = "a4ac9aff978925a9d00664db10c96760cd13fc9cee8fab85bcd242f19691ee52"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "e3599de94b2b1c8dc5f390380ab2f970dcc8d15452dd5e56bbf2a33fa47f3ac1"
+hash = "989c48c4d512094eea48d79e3d74afb6fc482eeeeea511ba1869f731702be82a"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "fce968b9f5e89dd122fe8409db961bf4f5f27cc14b16bd6d2423970c0e41c40d"
+hash = "752faeacb8ac21375a37e1b96a0086656df60723cdca24625bf06275dd79bba2"
 metafile = true
 
 [[files]]
