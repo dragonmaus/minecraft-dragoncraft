@@ -1,0 +1,8 @@
+name = "serverpause.conf"
+filename = "serverpause.conf"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/serverpause/serverpause.conf"
+hash-format = "sha256"
+hash = "651446dbc7f7b9ec04f2503c8fe1d7617e86363f90150d64e0bc3802f8453390"

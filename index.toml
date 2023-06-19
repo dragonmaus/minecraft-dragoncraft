@@ -21,6 +21,11 @@ hash = "fbeac0567a28bf9c6484cd8eb8dc119b4d9de68ee2f1050b81039cb82be1aa29"
 metafile = true
 
 [[files]]
+file = "config/easymagic-server-toml.pw.toml"
+hash = "cfda9dca2505fe23611ecd2fe0a9d1fa00d7ca4f1195eaedba537a128ac216c8"
+metafile = true
+
+[[files]]
 file = "config/featuredservers-json.pw.toml"
 hash = "777ba8cb47dc2af629daf90b4ed64de7f459c2cff50b206d3e3807239a47b110"
 metafile = true
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "config/quickconnectbutton-json5.pw.toml"
 hash = "7ef3bdc42a67bf529990fb6acb88aacdf6d4d3600f0a3c85398d2f128a8b35fe"
+metafile = true
+
+[[files]]
+file = "config/serverpause/serverpause-conf.pw.toml"
+hash = "48b16f2714179f34b329f58b6d4ce5ebdc10c82d9468bd4462d6489741059126"
 metafile = true
 
 [[files]]
@@ -230,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "899bec06d910d0fc5de78d1c3bb4dbf84537b44724c0286adb7559a1ea4f73b4"
+hash = "24fa2a29d7520f41b3ce733cc2084b32de92531074f83f9876dcf09dd3870dee"
 metafile = true
 
 [[files]]
@@ -311,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+hash = "116200f993dc697267546cac16da634809d0906e4d1d74d5eee7cf6785af8e0b"
 metafile = true
 
 [[files]]

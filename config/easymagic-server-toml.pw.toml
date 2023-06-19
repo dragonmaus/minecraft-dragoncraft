@@ -1,0 +1,8 @@
+name = "easymagic-server.toml"
+filename = "easymagic-server.toml"
+side = "both"
+
+[download]
+url = "http://craft.dragonma.us/packwiz/files/config/easymagic-server.toml"
+hash-format = "sha256"
+hash = "e05ec7370e060cfbbe14a008e83f7ca7eeaf38556cd5e2f3171765191228d500"
