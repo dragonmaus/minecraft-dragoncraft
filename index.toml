@@ -129,8 +129,8 @@ hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
-file = "mods/allay-in-a-bottle.pw.toml"
-hash = "c7f85f74fe32226258295d5a00d6f89eac87671dde9e32c605c9629f6b6b268b"
+file = "mods/allaybottle.pw.toml"
+hash = "346399688e4548179180a379e257a1968d46460b32912253312470bbdb2605f5"
 metafile = true
 
 [[files]]
@@ -206,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
 metafile = true
 
 [[files]]
@@ -514,6 +519,11 @@ hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
@@ -776,6 +786,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a4ac9aff978925a9d00664db10c96760cd13fc9cee8fab85bcd242f19691ee52"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
