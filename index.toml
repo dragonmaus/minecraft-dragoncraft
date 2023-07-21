@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
+hash = "52633db2b9143bc2a80a505cc72821eab7eac86ab53f7ca192d58575ffbdbcb9"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "94a27b84c3b189394e73ec4018caf931f00359e016b51b27a063a4ce4a99848e"
+hash = "f156a51ba3706bbdd6d38a6d5a40364cf62d4911490635d3341ff07d4acb8dc7"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
+hash = "8b3d616a8478618a741c9ac421551e10234258c71bf1b722a545e0e0d435c474"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
+hash = "cfb44d460e7c0aca9baa41b29eb5d9cc92ae9ddaef5184e699c904965fb34ffe"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "ef087e10ad1f845bc120cb37051a2453ddd929008d3b420d08f725f12bce4d52"
+hash = "1eba6dda0a4360948e4647abe7528fe326e1ebd4ff45ebd1daac57e2b1f62a41"
 metafile = true
 
 [[files]]
@@ -240,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
+hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+hash = "b729de321e1dc2ab73a71d06c01d68f15b9aa41e20b9ec051dcbce5ce2399477"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
+hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "9b04c682811fa9052b8d2a461cefd125d76a7c448c252649ef0180588f9b8c87"
+hash = "186208fde5fad57e5b7ca16f3301e05f16380509d86a5bac1419c6a690232ecf"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
+hash = "a1c21e354d8f5a0cf4817081277abb022a23421f487228e327c50757bfed60bf"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "5b10d97c237eb22fe591c9bd1fa8cd70265e7682b2c02c837a21a66496498f61"
+hash = "2c595940e0a64a48d2505a2938293d22588fb53ab918c79643e23de5f43ba072"
 metafile = true
 
 [[files]]
@@ -860,17 +860,17 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum-jetpacks.pw.toml"
-hash = "863d8adcaeb446e3423d498ad990f5c6fb2ecd43d0226526342034127922a4ed"
+hash = "7174633760370bbc4eb4214bd3c6ebd0d468ced20eb9bf6641ed944a4a073bb5"
 metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "6b24ed496e890b1da2a32cd6e43c4330b4527d101a15c86557dbf021793ee5be"
+hash = "df2bf8143da84edfcd8735ffc563eeda626ae948972a55126f7c0289c281f0b4"
 metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "97af97e5abfbeed6d86a976493876bf71411992529ec67eec83166dbc4a99c71"
+hash = "1f17be664e94816e8404f7083d31b7dba2d0b4e185ea4e08c0fff7320a937554"
 metafile = true
 
 [[files]]
@@ -885,12 +885,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
+hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "73a8ef7a1d8a156d712f138a689187e73619127497b9e6666510ce30980d56aa"
+hash = "a86105dc4b894ae790e0cdebbd485439ef265dc440c17fb4f5db0924fdb6e557"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "752faeacb8ac21375a37e1b96a0086656df60723cdca24625bf06275dd79bba2"
+hash = "3879d536da58c50ccca8951216d9d393331b08f75071d36f5d6a478f2069c744"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "e4499d0bf9aaf0d8559f6dab1021998b5133b814d3571749ba1e7b66ff2d59a5"
+hash = "30a3e3f7f468a6b0c2d65fcaab7ff138881c0a921316fa721a5c3a1d77ec4bac"
 metafile = true
 
 [[files]]

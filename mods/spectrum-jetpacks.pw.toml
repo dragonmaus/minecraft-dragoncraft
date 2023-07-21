@@ -1,13 +1,13 @@
 name = "Spectrum Jetpacks"
-filename = "spectrum-jetpacks-1.0.0.jar"
+filename = "spectrum-jetpacks-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iXT7GFmP/versions/UuIquUiL/spectrum-jetpacks-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/iXT7GFmP/versions/qR9aId3n/spectrum-jetpacks-1.0.2.jar"
 hash-format = "sha1"
-hash = "b67a83ec5bff8c0dbc8b97e61e3fa5ac350e8dea"
+hash = "1f788f5a4e123685869683c9d5f40652743a8b68"
 
 [update]
 [update.modrinth]
 mod-id = "iXT7GFmP"
-version = "UuIquUiL"
+version = "qR9aId3n"

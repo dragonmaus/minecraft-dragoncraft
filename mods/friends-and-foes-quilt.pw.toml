@@ -1,13 +1,13 @@
 name = "Friends&Foes (Quilt)"
-filename = "friendsandfoes-quilt-mc1.19.2-1.8.3.jar"
+filename = "friendsandfoes-quilt-mc1.19.2-1.8.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NxP9xmhw/versions/XjuVasoy/friendsandfoes-quilt-mc1.19.2-1.8.3.jar"
+url = "https://cdn.modrinth.com/data/NxP9xmhw/versions/TpcyWvmc/friendsandfoes-quilt-mc1.19.2-1.8.5.jar"
 hash-format = "sha1"
-hash = "d8be713f958116fc0973cd5f476d0d9aa381d148"
+hash = "c9cd33f11f2014b73607328cbd878d8e0e6a98a6"
 
 [update]
 [update.modrinth]
 mod-id = "NxP9xmhw"
-version = "XjuVasoy"
+version = "TpcyWvmc"
